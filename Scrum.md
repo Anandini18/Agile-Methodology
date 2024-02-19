@@ -1,4 +1,4 @@
-# Scrum Methodology
+# Scrum Framework
 
 ## What is Scrum?
 Scrum is an agile framework for developing, delivering, and sustaining complex products. It emphasizes collaboration, flexibility, and continuous improvement.

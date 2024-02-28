@@ -1,7 +1,7 @@
 # Agile-Methodology
 
 ## [**Agile Basics**](AgileBasics.md)
-   - Agile Manifesto
+   - [Agile Manifesto](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md#agile-manifesto)
    - Agile Principles
    - Estimation in Agile
    - Other Agile Roles
@@ -33,7 +33,7 @@
    - How Scumban Works?
    - Features of Scrumban
    - Continous Flow in Scrumban
-   - Timebox
+   - [Timebox](https://github.com/Anandini18/Agile-Methodology/blob/main/Scrumban.md#timebox)
    - Triage & Feature Freeze
    - Target Audience
    - Scrumban Guide

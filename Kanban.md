@@ -43,7 +43,7 @@
 ![image](https://github.com/Anandini18/Agile-Methodology/assets/88365547/396a71f2-478e-4149-8499-93965719a56a)
 
 
-**Kanban Cards:**
+## **Kanban Cards:**
 - Kanban cards represent individual tasks or work items on the Kanban board.
 - They contain information such as task descriptions, assignees, due dates, and current status.
 - Example: A Kanban card in a software development project might include details about a specific feature or bug fix.

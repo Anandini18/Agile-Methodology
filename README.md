@@ -4,13 +4,13 @@
 
 
 
-## [**Agile Basics**](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md)
+## **Agile Basics**
    - [Agile Manifesto](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md#agile-manifesto)
    - [Agile Principles](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md#12-agile-principles)
    - [Estimation in Agile](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md#estimation-in-agile)
    - [Other Agile Roles](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md#other-agile-roles)
 
-## [**Scrum**](Scrum.md)
+## **Scrum**
    - [What is Scrum?](https://github.com/Anandini18/Agile-Methodology/blob/main/Scrum.md#what-is-scrum)
    - [Scrum Values](https://github.com/Anandini18/Agile-Methodology/blob/main/Scrum.md#scrum-values)
    - [Scrum Roles](https://github.com/Anandini18/Agile-Methodology/blob/main/Scrum.md#scrum-roles)
@@ -23,7 +23,7 @@
    - [Burndown Chart](https://github.com/Anandini18/Agile-Methodology/blob/main/Scrum.md#burndown-chart)
    - [Burn Up Chart](https://github.com/Anandini18/Agile-Methodology/blob/main/Scrum.md#burn-up-chart)
 
-## [**Kanban**](Kanban.md)
+## **Kanban**
    - [What is Kanban?](https://github.com/Anandini18/Agile-Methodology/blob/main/Kanban.md#what-is-kanban-framework)
    - [Principles of Kanban](https://github.com/Anandini18/Agile-Methodology/blob/main/Kanban.md#four-fundamental-principles-of-kanban)
    - [Kanban Board](https://github.com/Anandini18/Agile-Methodology/blob/main/Kanban.md#kanban-board)
@@ -34,7 +34,7 @@
    - [Kabban Swimlanes](https://github.com/Anandini18/Agile-Methodology/blob/main/Kanban.md#kanban-swimlanes)
    - [Steps to immplement Kanban](https://github.com/Anandini18/Agile-Methodology/blob/main/Kanban.md#three-steps-to-implement-kanban)
 
-## [**Scrumban**](Scrumban.md)
+## **Scrumban**
    - [What is Scrumban?](https://github.com/Anandini18/Agile-Methodology/blob/main/Scrumban.md#what-is-scrumban-)
    - [How Scumban Works?](https://github.com/Anandini18/Agile-Methodology/blob/main/Scrumban.md#how-scrumban-works-)
    - [Features of Scrumban](https://github.com/Anandini18/Agile-Methodology/blob/main/Scrumban.md#features-of-scrumban)

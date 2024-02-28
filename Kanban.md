@@ -1,6 +1,6 @@
 # **Kanban Framework**
 
-**What is Kanban Framework?**
+## **What is Kanban Framework?**
 - Kanban is a visual framework used for managing work and workflow.
 - It originated from Toyota's production system as a method for optimizing manufacturing processes and inventory control.
 - Kanban has since been adapted for various industries and contexts, including software development, project management, and knowledge work.
@@ -16,7 +16,7 @@
 - Kanban was developed by Toyota as part of its lean manufacturing principles in the 1940s and 1950s.
 - The system was aimed at minimizing waste, optimizing production, and improving efficiency in manufacturing processes.
 
-**Four Fundamental Principles of Kanban:**
+## **Four Fundamental Principles of Kanban:**
 1. **Visualize the Workflow:**
    - Kanban promotes visualizing the workflow by representing tasks and their statuses on a Kanban board.
    - Example: Using a physical or digital board with columns representing different stages of work (e.g., to-do, in progress, done).
@@ -36,7 +36,7 @@
 ![image](https://github.com/Anandini18/Agile-Methodology/assets/88365547/a703e305-df2a-4423-80e9-dfe04366a5c5)
 
 
-**Kanban Board:**
+## **Kanban Board:**
 - A Kanban board is a visual representation of the workflow, typically divided into columns representing different stages of work.
 - Examples include using Trello or Jira to create digital Kanban boards, where tasks are represented as cards that can be moved between columns based on their status.
 
@@ -51,7 +51,7 @@
 ![kanban-card-08](https://github.com/Anandini18/Agile-Methodology/assets/88365547/a6980265-cf78-4985-a43f-febd96ab8e27)
 
 
-**Six General Practices of Kanban:**
+## **Six General Practices of Kanban:**
 1. **Visualize the Workflow**
 2. **Limit Work in Progress (WIP)**
 3. **Manage Flow**
@@ -62,7 +62,7 @@
 ![image](https://github.com/Anandini18/Agile-Methodology/assets/88365547/81836775-6594-42d4-963c-df3040449bcb)
 
 
-**Kanban Key Metrics:**
+## **Kanban Key Metrics:**
 - **Lead Time:** The time taken for a work item to move from request to completion.
 - **Cycle Time:** The time taken for a work item to move through the workflow from start to finish.
 - Example: Calculating the lead time for a customer support ticket from the time it's submitted to when it's resolved.
@@ -77,18 +77,18 @@
 ![image](https://github.com/Anandini18/Agile-Methodology/assets/88365547/f2f16535-79d5-4448-91c6-22b12eafa5b0)
 
 
-**Kanban Statuses:**
+## **Kanban Statuses:**
 - Kanban boards typically include statuses or columns representing different stages of the workflow.
 - Examples include backlog, to-do, in progress, review, and done.
 
 ![image](https://github.com/Anandini18/Agile-Methodology/assets/88365547/7077bc5d-2615-47ba-99b1-ddbab9daa270)
 
 
-**Kanban Swimlanes:**
+## **Kanban Swimlanes:**
 - Swimlanes are horizontal categorizations on a Kanban board used to group tasks or work items based on criteria such as team, priority, or project phase.
 - Example: Using swimlanes to separate tasks by project or assignee to visualize workload distribution and prioritize tasks effectively.
 
-**Three Steps to Implement Kanban:**
+## **Three Steps to Implement Kanban:**
 1. **Visualize Your Work:**
    - Map out the workflow and create a Kanban board to visualize the stages of work.
 2. **Limit Work in Progress (WIP):**

@@ -4,7 +4,7 @@
 
 
 
-## [**Agile Basics**](Agile Basics.md)
+## [**Agile Basics**](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md)
    - [Agile Manifesto](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md#agile-manifesto)
    - [Agile Principles](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md#12-agile-principles)
    - [Estimation in Agile](https://github.com/Anandini18/Agile-Methodology/blob/main/Agile%20Basics.md#estimation-in-agile)

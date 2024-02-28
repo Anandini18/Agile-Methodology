@@ -40,7 +40,7 @@ The Agile Manifesto is a set of guiding principles for software development that
 
 
 
-**Estimation in Agile:**
+# **Estimation in Agile:**
 - Agile estimation is like guessing how long it will take to finish a puzzle or reach a destination.
 - It helps teams plan and prioritize work by breaking it into manageable pieces.
 
@@ -57,7 +57,7 @@ The Agile Manifesto is a set of guiding principles for software development that
    - Story points are like levels in a video game: harder levels take more time and effort to complete.
    - Using Fibonacci numbers (1, 2, 3, 5, 8, 13, etc.) helps teams assign relative values to tasks.
 
-**Other Agile Roles:**
+# **Other Agile Roles:**
 1. **Product Sponsor:**
    - The product sponsor is like the captain of a ship, steering the project in the right direction.
    - They provide guidance and support to ensure the project meets its goals.
